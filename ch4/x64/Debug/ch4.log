@@ -1,0 +1,12 @@
+﻿  Building 'ch4' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Source.cpp
+C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\ch4\Source.cpp(35,63): warning C4100: 'Irp': unreferenced formal parameter
+C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\ch4\Source.cpp(35,44): warning C4100: 'DeviceObject': unreferenced formal parameter
+C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\ch4\Source.cpp(39,57): warning C4100: 'Irp': unreferenced formal parameter
+C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\ch4\Source.cpp(39,38): warning C4100: 'DeviceObject': unreferenced formal parameter
+  ch4.vcxproj -> C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\DriverStart\x64\Debug\ch4.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\DriverStart\x64\Debug\ch4.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
