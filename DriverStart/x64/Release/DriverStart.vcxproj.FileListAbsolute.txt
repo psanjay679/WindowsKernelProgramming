@@ -1,1 +1,0 @@
-C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\DriverStart\x64\Release\DriverStart.sys

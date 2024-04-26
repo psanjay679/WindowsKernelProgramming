@@ -1,8 +1,0 @@
-﻿  Building 'DriverStart' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  Source.cpp
-  DriverStart.vcxproj -> C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\DriverStart\x64\Debug\DriverStart.sys
-  Done Adding Additional Store
-  Successfully signed: C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\DriverStart\x64\Debug\DriverStart.sys
-  
-  Inf2Cat task was skipped as there were no inf files to process
-  

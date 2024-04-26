@@ -1,6 +1,0 @@
-﻿  Beep.cpp
-C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\Beep\Beep.cpp(34,66): warning C4474: 'printf' : too many arguments passed for format string
-  C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\Beep\Beep.cpp(34,66):
-  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-  
-  Beep.vcxproj -> C:\Users\SanjayPanchal\Desktop\WindowsKernelProgramming\DriverStart\x64\Debug\Beep.exe
